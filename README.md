@@ -29,7 +29,7 @@ The current product is an Electron desktop application with a redesigned RTL int
 
 ### Commercial availability
 
-The implementation source is not included in this showcase repository. For a product demonstration, commercial license, custom deployment, or Windows/Linux delivery, contact **Bilel JM** through [Orzint.com](https://orzint.com) or open a private business inquiry through GitHub.
+The implementation source is not included in this showcase repository. For a product demonstration, commercial license, custom deployment, or Windows/Linux delivery, contact **Bilel JM** at [bileljammazi6@gmail.com](mailto:bileljammazi6@gmail.com) or open a private business inquiry through GitHub.
 
 Commercial terms can cover the licensed edition, number of installations, updates, support, customization, and deployment assistance. A final agreement should be reviewed by qualified legal counsel before sale.
 
